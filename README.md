@@ -26,7 +26,8 @@ Aqui estão alguns projetos que trabalhei e que mais me orgulho:
 - **[Dominare](https://github.com/Traexxx/Dominare.git)**: Este é um projeto para administração de condominio, tendo funções basicas de registros, controle acesso ao condominio, avisos, e mais.
 
 ## 📈 Minhas Estatísticas no GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?traexxx&layout=compact)](https://github.com/traexxx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traexxx&layout=compact)](https://github.com/traexxx)
+
 
 ## Educação
 <img align="center" alt="Senac" height="45" width="55" src="https://github.com/user-attachments/assets/4a1759da-1a8c-41ac-b527-98cfb3f0bc77">
