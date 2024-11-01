@@ -2,18 +2,31 @@
 
 Sou um estudante de desenvolvimento web.
 
-## Habilidades em aprendizado
+## 🚀 Tecnologias e Ferramentas
 - **Linguagens de Programação:**
   <img align="center" alt="JavaScript" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg">
+  footer
+  dart
+  SQL
+
+- **Estilos e Layouts:**
   <img align="center" alt="HTML 5" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg">
 
 - **Frameworks e Bibliotecas:**
   <img align="center" alt="Node js" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
+  angular
   
 - **Ferramentas e Plataformas:**
   <img align="center" alt="Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg">
+
+## 📝 Projetos em Destaque
+Aqui estão alguns projetos que trabalhei e que mais me orgulho:
+- **[Dominare](https://github.com/Traexxx/Dominare.git)**: Este é um projeto para administração de condominio, tendo funções basicas de registros, controle acesso ao condominio, avisos, e mais.
+
+## 📈 Minhas Estatísticas no GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?traexxx&layout=compact)](https://github.com/traexxx)
 
 ## Educação
 <img align="center" alt="Senac" height="45" width="55" src="https://github.com/user-attachments/assets/4a1759da-1a8c-41ac-b527-98cfb3f0bc77">
