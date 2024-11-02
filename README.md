@@ -6,9 +6,11 @@ Sou um estudante de desenvolvimento web.
 - **Linguagens de Programação:**
   <img align="center" alt="JavaScript" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg">
-  footer
-  dart
-  SQL
+> Mobile
+  <img align="center" alt="Flutter" height="35" width="35" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Dart" height="35" width="35" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dart/dart-original.svg">
+> Banco de Dados
+  <img align="center" alt="SQL" height="35" width="35" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-plain-wordmark.svg">
 
 - **Estilos e Layouts:**
   <img align="center" alt="HTML 5" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
@@ -16,13 +18,15 @@ Sou um estudante de desenvolvimento web.
 
 - **Frameworks e Bibliotecas:**
   <img align="center" alt="Node js" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
-  angular
+  <img align="center" alt="angular" height="35" width="35" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg">
+  
+  
   
 - **Ferramentas e Plataformas:**
   <img align="center" alt="Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg">
 
 ## 📝 Projetos em Destaque
-Aqui estão alguns projetos que trabalhei e que mais me orgulho:
+Aqui estão aguns projetos que tenho aplicado meus conhecimentos e estudos:
 - **[Dominare](https://github.com/Traexxx/Dominare.git)**: Este é um projeto para administração de condominio, tendo funções basicas de registros, controle acesso ao condominio, avisos, e mais.
 
 ## 📈 Minhas Estatísticas no GitHub
